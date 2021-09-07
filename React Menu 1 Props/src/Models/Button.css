@@ -1,0 +1,27 @@
+.arrange{
+    height: 480px;
+    width: 500px;
+    /* border: 1px solid red; */
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 15vh;
+}
+
+.arrange Button{
+    height: 40%;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 15%;
+    border-radius: 30px;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+}
+
+.join{
+    background-color: red;
+}
+
+
+
